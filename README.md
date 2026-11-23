@@ -37,7 +37,9 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazoMJorge&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
 ---
+
 ### 📫 Conecta conmigo
+
 <p align="left">
   <a href="https://www.linkedin.com/in/jorge-armando-lazo-moscoso-965560189/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
